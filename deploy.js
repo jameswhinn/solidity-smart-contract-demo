@@ -1,9 +1,4 @@
 // deploy code will go here
-// https://rinkeby.infura.io/v3/97ff9a09557144a09b9898a84df18892
-// project id 97ff9a09557144a09b9898a84df18892
-// project secret 0de06967a75d4f2d9a94e7a1b9515abc
-
-// section brother embrace winner race enlist leader keep song chimney thunder impact
 require('dotenv').config();
 const HDWalletProvider = require('@truffle/hdwallet-provider');
 const Web3 = require('web3');
